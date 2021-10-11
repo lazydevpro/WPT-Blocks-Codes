@@ -16,7 +16,7 @@ So here is the list of articles on Gutenberg Custom Blocks:
 
 <a href="https://www.webprotime.com/custom-block-category-and-multiple-blocks">Custom Block Development Part-5: Custom Block Category and Multiple Blocks</a>: In this article, you'll learn how you can create your own custom category for keeping your blocks and also how you can add create multiple blocks with only one plugin.
 
-<a href="https://www.webprotime.com/toolbar-and-sidebar-for-custom-blocks">Custom Block Development Part-6: Toolbar and Sidebar for Blocks</a>: In this article, we have shared how you can add toolbar controls and sidebar controls for giving customization options for your block. We have also taken a look at which one to use in which situation.
+<a href="https://www.webprotime.com/toolbar-sidebar-custom-blocks">Custom Block Development Part-6: Toolbar and Sidebar for Blocks</a>: In this article, we have shared how you can add toolbar controls and sidebar controls for giving customization options for your block. We have also taken a look at which one to use in which situation.
 
 <a href="https://www.webprotime.com/image-audio-video-in-custom-block/">Custom Block Development Part-7: Image, Audio, Video in Block</a>: In this article, we have learned to manipulate media for our block. First, we have learned how we can use our own custom SVG for our block icon. After that, we have learned how we can use Image, Audio, and Video in our custom block.
 
